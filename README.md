@@ -20,6 +20,10 @@ Seguindo todos os passos acima e não deixando faltar nenhuma da informações s
 Ao terminar a instalação é só logar com os dados padrão, caso não saiba veja na página do projeto [Press Ticket aqui](https://github.com/rtenorioh/Press-Ticket).
 
 ## INSTALAÇÃO 
+INSTALAR PRIMEIRO AS DEPENDENCIAS
+```bash
+sudo apt-get install -y libxshmfence-dev libgbm-dev wget unzip fontconfig locales gconf-service libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 ca-certificates fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils npm
+```
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
